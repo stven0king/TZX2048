@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TZX2048</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="costomview">im custom view</string>
+
+    <string name="ok_button">重新开始</string>
+    <string name="calcel_button">退出游戏</string>
+    <string name="go_back">返回游戏</string>
+    <string name="dialog_title">枪版2048</string>
+    <string name="dialog_message1">再来一次，努力再创新高，加油！！！</string>
+    <string name="dialog_message2">休息，休息一会。</string>
+    <string name="qidao_can_not">金币不足10枚，无法使用该道具</string>
+    <string name="chuizi_can_not">金币不足5枚，无法使用该道具</string>
+    <string name="fanhui_can_not">有个再一再二，没有再三再四~！</string>
+    <string name="press_exit_again">再按一次退出</string>
+</resources>

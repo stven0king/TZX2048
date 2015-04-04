@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+    
+	<ImageButton 
+	    android:id="@+id/qidao"
+	    android:layout_width="0dp"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/qidao"
+	    android:layout_marginLeft="10dp"
+	    android:layout_weight="1"
+        android:scaleType="centerInside"
+	    android:layout_marginTop="20dp"/>
+	<ImageButton 
+	    android:id="@+id/jiaohuan"
+	    android:layout_width="0dp"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/jiaohuan"
+	    android:layout_marginLeft="10dp"
+	    android:layout_weight="1"
+        android:scaleType="centerInside"
+	    android:layout_marginTop="20dp"/>
+	<ImageButton 
+	    android:id="@+id/chuizi"
+	    android:layout_width="0dp"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/chuizi"
+	    android:layout_marginLeft="10dp"
+	    android:layout_weight="1"
+        android:scaleType="centerInside"
+	    android:layout_marginTop="20dp"/>
+	<ImageButton 
+	    android:id="@+id/fanhui"
+	    android:layout_width="0dp"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/fanhui"
+	    android:layout_marginLeft="10dp"
+        android:scaleType="centerInside"
+	    android:layout_weight="1"
+	    android:layout_marginTop="20dp"/>
+</LinearLayout>
